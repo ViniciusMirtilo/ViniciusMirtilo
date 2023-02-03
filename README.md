@@ -1,8 +1,8 @@
 ## 👋 Hello! Welcome to my Github profile.
 
-# My name is Vinicius and my nickname is "Mirtilo"!
+## My name is Vinicius and my nickname is "Mirtilo"!
 
-## Ferramentas 
+### Ferramentas 
 
 <div>
 
@@ -12,7 +12,7 @@
   <img align="center" alt="chorme" src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" />
 </div>
 
-## Estou aprendendo
+### Estou aprendendo
 
 <div style="display: inline_block"></br>
 
@@ -23,7 +23,7 @@
 
 </div>
 
-## Contatos
+### Contatos
 
 <div>
 <a href="https://www.linkedin.com/in/vinicius-lima-dos-santos-428333190/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
