@@ -1,5 +1,6 @@
-# 👋 Hello! Welcome to my Github profile.
-## My name is Vinicius and my nickname is "Mirtilo"!
+## 👋 Hello! Welcome to my Github profile.
+
+# My name is Vinicius and my nickname is "Mirtilo"!
 
 ## Ferramentas 
 
