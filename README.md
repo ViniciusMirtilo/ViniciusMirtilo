@@ -2,26 +2,22 @@
 
 ## My name is Vinicius and my nickname is "Mirtilo"!
 
-### Ferramentas 
+### Tools 
 
 <div>
 
-  <img align="center" alt="widnows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img align="center" alt="macos" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
-  <img align="center" alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img align="center" alt="chorme" src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" />
-  <img align="center" alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+  [![My systens](https://skillicons.dev/icons?i=windows,apple,vscode,unity)](https://skillicons.dev)
 </div>
+
+### Languages i use
+
+[![My languages](https://skillicons.dev/icons?i=nodejs,js,html,css,react,git&theme=light)](https://skillicons.dev)
 
 ### Estou aprendendo
 
 <div style="display: inline_block"></br>
 
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-
+[![My Skills](https://skillicons.dev/icons?i=css,react,js&theme=light)](https://skillicons.dev)
 
 </div>
 
