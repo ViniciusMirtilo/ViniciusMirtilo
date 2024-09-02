@@ -9,7 +9,7 @@
   [![My systens](https://skillicons.dev/icons?i=windows,apple,vscode,unity)](https://skillicons.dev)
 </div>
 
-### Languages i use
+### Languages I use
 
 [![My languages](https://skillicons.dev/icons?i=nodejs,js,html,css,react,git&theme=light)](https://skillicons.dev)
 
