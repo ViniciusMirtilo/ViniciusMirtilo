@@ -13,7 +13,7 @@
 
 [![My languages](https://skillicons.dev/icons?i=nodejs,js,html,css,react,git&theme=light)](https://skillicons.dev)
 
-### Estou aprendendo
+### I am learning
 
 <div style="display: inline_block"></br>
 
@@ -21,7 +21,7 @@
 
 </div>
 
-### Contatos
+### My's Contants
 
 <div>
 <a href="https://www.linkedin.com/in/vinicius-lima-dos-santos-428333190/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
