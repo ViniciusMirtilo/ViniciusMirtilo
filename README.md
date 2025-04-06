@@ -11,7 +11,7 @@
 
 ### Languages I use
 
-[![My languages](https://skillicons.dev/icons?i=nodejs,js,html,css,react,git&theme=light)](https://skillicons.dev)
+[![My languages](https://skillicons.dev/icons?i=mysql,python,git&theme=light)](https://skillicons.dev)
 
 ### I am learning
 
