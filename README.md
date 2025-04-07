@@ -6,7 +6,7 @@
 
 <div>
 
-  [![My systens](https://skillicons.dev/icons?i=windows,apple,vscode,unity)](https://skillicons.dev)
+  [![My systens](https://skillicons.dev/icons?i=windows,apple,vscode)](https://skillicons.dev)
 </div>
 
 ### Languages I use
